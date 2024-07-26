@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Final Year Student @ Panimalar Institute of Technology
-<img align="right" width="370" height="290" src="https://i.pinimg.com/736x/71/d3/bb/71d3bb4201f2da3dc7cfd72b881bb34a.jpg">                                       
+<img align="right" width="370" height="290" src="https://businessofanimation.com/wp-content/uploads/2022/07/data-animation.gif">                                       
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with Placements in FAANG
@@ -31,7 +31,7 @@ Final Year Student @ Panimalar Institute of Technology
 ### IDE and Tools I Use  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000"/> 
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000"/>  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000"/> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000"/> 
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/> 
 
 ![Kaviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=amayars&theme=dark&show_icons=true&&hide=issues,contribs)
