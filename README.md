@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Final Year Student @ Panimalar Institute of Technology
-<img align="right" width="370" height="290" src="https://businessofanimation.com/wp-content/uploads/2022/07/data-animation.gif"> <br/>                              - 🔭 Here's my [portfolio](https://amayarajesh24.wixsite.com/amaya)    
+<img align="right" width="370" height="290" src="https://businessofanimation.com/wp-content/uploads/2022/07/data-animation.gif">                             
+- 🔭 Here's my [portfolio](https://amayarajesh24.wixsite.com/amaya)    
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with Placements in FAANG
