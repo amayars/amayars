@@ -58,6 +58,8 @@
   <img height="40" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
 </p>
 
+---
+
 ### 📌 Featured Projects
 
 #### 🤖 AI-Powered Tool for Disabled People  
