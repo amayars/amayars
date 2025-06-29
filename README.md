@@ -34,9 +34,7 @@
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 📜 Certifications:
 - Oracle Cloud GenAI 2024 Professional  
@@ -57,8 +55,6 @@ An AI-integrated tool with:
 - Chatbot with ChatGPT-like behavior  
 Empowering inclusive learning through real-time AI communication.
 
-🔗 [GitHub Repo (coming soon)](#)
-
 ---
 
 #### 📊 Hospitality Revenue Insights  
@@ -67,7 +63,6 @@ A Power BI dashboard designed for the **hospitality sector**, featuring:
 - Clean layout for quick insights & decision-making  
 Used to optimize revenue strategies for hotels.
 
-🔗 [GitHub Repo (private)](#)
 
 ---
 
@@ -77,7 +72,6 @@ Explore art with:
 - Python search backend  
 Browse artworks by artist and price in an intuitive interface.
 
-🔗 [GitHub Repo](#)
 
 ---
 
