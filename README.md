@@ -45,6 +45,19 @@
 
 ---
 
+### 🧑‍💻 I Code In
+
+<p align="left">
+  <img height="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img height="40" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+</p>
+
 ### 📌 Featured Projects
 
 #### 🤖 AI-Powered Tool for Disabled People  
