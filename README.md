@@ -49,21 +49,54 @@
 
 ### 📌 Featured Projects
 
-- 🔍 [**HustleAnalyzer**](https://github.com/amayars/hustle_analyzer): Business idea evaluator using Python & AI  
-- 🤖 [**AI Learning Assistant**](#): Real-time sign language + speech-to-text + chatbot (WIP)  
-- 📊 [**Hospitality Revenue Dashboard**](#): Power BI dashboard with RevPAR, ADR, and key KPIs  
-- 📱 [**RightMeal App**](#): Built using FlutterFlow + Firebase for a digital health platform  
+#### 🤖 AI-Powered Tool for Disabled People  
+An AI-integrated tool with:
+- Indian Sign Language recognition  
+- Speech-to-text & text-to-speech  
+- Multilingual translation (Google Translate)  
+- Chatbot with ChatGPT-like behavior  
+Empowering inclusive learning through real-time AI communication.
+
+🔗 [GitHub Repo (coming soon)](#)
+
+---
+
+#### 📊 Hospitality Revenue Insights  
+A Power BI dashboard designed for the **hospitality sector**, featuring:
+- DAX-powered KPIs: RevPAR, ADR, DSRN, DURN, DBRN  
+- Clean layout for quick insights & decision-making  
+Used to optimize revenue strategies for hotels.
+
+🔗 [GitHub Repo (private)](#)
+
+---
+
+#### 🖼️ Virtual Art Gallery Curator  
+Explore art with:
+- HTML/CSS gallery frontend  
+- Python search backend  
+Browse artworks by artist and price in an intuitive interface.
+
+🔗 [GitHub Repo](#)
 
 ---
 
 ### 💻 Tools & IDEs
 
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  
-<img height="40" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img height="40" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>  
-<img height="40" src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000"/> 
-<img height="40" src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000"/> 
-<img height="40" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/> 
+<p align="left">
+  <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img height="40" src="https://img.icons8.com/color/50/000000/git.png"/>
+  <img height="40" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+  <img height="40" src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000"/>
+  <img height="40" src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000"/>
+  <img height="40" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/>
+</p>
+
+---
+
+### 🎉 Fun Fact  
+🐍 I code in Python — named after the British comedy group **Monty Python** 😄  
+🌌 Pronouns: **Nova/Novae**
 
 ---
 
