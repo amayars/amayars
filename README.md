@@ -25,7 +25,7 @@
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaya-r/)  
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://amayarajesh24.wixsite.com/amaya)
+[![Portfolio](https://amayaportfolio.netlify.app/)
 
 ---
 
